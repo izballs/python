@@ -2,4 +2,4 @@
 
 Ohjelmalla saa luotua taustakuvan monen näytön järjestelmään. Tuki ainoastaan linuxille.
 
-Käyttöliittymä toteutettu PyQT:lla
+Käyttöliittymä toteutettu tkinter:illä.
